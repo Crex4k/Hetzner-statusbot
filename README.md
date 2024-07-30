@@ -19,7 +19,5 @@ Dieses Node.js-Skript bietet eine schnelle und effiziente Methode, um Statusaktu
 
 1. Installieren Sie die erforderlichen Pakete:
    ```bash
-   npm install axios xml2js moment
-   
-   node hetznerbot.js
+   wget https://raw.githubusercontent.com/Crex4k/Hetzner-statusbot/main/hetznerbot.js && npm install axios xml2js moment && nano hetznerbot.js && node hetznerbot.js
 
